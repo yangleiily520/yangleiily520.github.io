@@ -928,6 +928,14 @@
           logo: site.ac.png
           url: https://www.site.ac/
           description: 
+        - title: Duck DNS
+          logo: duckdns.png
+          url: https://www.duckdns.org/
+          description: 
+        - title: Dynamic IP
+          logo: noip.png
+          url: https://www.noip.com/
+          description: 
 
 
 - taxonomy: 软件下载
